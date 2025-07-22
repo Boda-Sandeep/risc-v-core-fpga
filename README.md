@@ -24,7 +24,7 @@ The project showcases a modular, 5-stage pipelined RISC-V CPU architecture built
 
 ## 🛠️ My Contributions
 
-As this is a group projrct, during the development of this project, I focused on the following key areas:
+As this is a group project, during the development of this project, I focused on the following key areas:
 
  Implemented matrix multiplication using **blocked DGEMM** approach.
 - Analyzed performance bottlenecks and realized the potential of **systolic array** architecture.
